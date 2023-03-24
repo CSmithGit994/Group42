@@ -38,17 +38,17 @@
 								</a>
 							</li>
 							<li class="nav-item">
-								<a class="nav-link text-dark" href="http://localhost/group42/ModuleLeaderPage.php">Home</a>
+								<a class="nav-link text-dark" href="ModuleLeaderPage.php">Home</a>
 							</li>
 							<li class="nav-item">
-								<a class="nav-link text-dark" href="http://localhost/group42/createstudent.php">Create Student/Tutor</a>
+								<a class="nav-link text-dark" href="hreatestudent.php">Create Student/Tutor</a>
 							</li>
 
 							<li class="nav-item">
-								<a class="nav-link text-dark" href="http://localhost/group42/permissions.php">Manage Permissions</a>
+								<a class="nav-link text-dark" href="permissions.php">Manage Permissions</a>
 							</li>
 							<li class="nav-item">
-								<a class="nav-link text-dark" href="http://localhost/group42/login1.php">Log Out</a>
+								<a class="nav-link text-dark" href="login1.php">Log Out</a>
 							</li>
 						</ul>
 					</div>

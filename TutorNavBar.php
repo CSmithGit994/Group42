@@ -38,15 +38,15 @@
 								</a>
 							</li>
 							<li class="nav-item">
-								<a class="nav-link text-dark" href="http://localhost/group42/tutorhome.php">Home</a>
+								<a class="nav-link text-dark" href="tutorhome.php">Home</a>
 							</li>
 							<li class="nav-item">
-								<a class="nav-link text-dark" href="http://localhost/group42/progress.php">Progress</a>
+								<a class="nav-link text-dark" href="progress.php">Progress</a>
 							</li>
 
 							
 							<li class="nav-item">
-								<a class="nav-link text-dark" href="http://localhost/group42/login1.php">Log Out</a>
+								<a class="nav-link text-dark" href="login1.php">Log Out</a>
 							</li>
 						</ul>
 					</div>
